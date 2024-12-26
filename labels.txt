@@ -1,0 +1,4 @@
+Sign vs Cosine Functions
+Sigmoid Function
+Logarithmic Curve
+cotanget vs tanget Functions
